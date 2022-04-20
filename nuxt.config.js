@@ -40,13 +40,13 @@ export default {
 
   firebase: {
     config: {
-      apiKey: 'AIzaSyDnN_Y67NnOydqJgM7IoRtoJsEYCNVP59g',
-      authDomain: 'houzburger.firebaseapp.com',
-      projectId: 'houzburger',
-      storageBucket: 'houzburger.appspot.com',
-      messagingSenderId: '221336248796',
-      appId: '1:221336248796:web:63fc2e3345e565da566f19',
-      measurementId: 'G-61HG1ML02P',
+      apiKey: "AIzaSyAKDP_0WWC5FDX1b8hKhh-N7Ok2Ut73IXQ",
+  authDomain: "ztmburger-d8322.firebaseapp.com",
+  projectId: "ztmburger-d8322",
+  storageBucket: "ztmburger-d8322.appspot.com",
+  messagingSenderId: "987382915321",
+  appId: "1:987382915321:web:f6fdd91f5d9cb0500bc228",
+  measurementId: "G-80WYR65BCE"
     },
     services: {
       auth: {
