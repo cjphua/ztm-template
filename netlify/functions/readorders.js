@@ -8,7 +8,7 @@ exports.handler = async function (event, context) {
 
     if (user.email != "cjphuaa@gmail.com") {
         return {
-            statusCode = 401,
+            statusCode: 401,
             body: JSON.stringify({
                 message: "You are not allowed to retrive orders",
             }),
