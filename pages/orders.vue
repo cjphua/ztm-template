@@ -109,7 +109,7 @@ export default {
       });
     },
     logout() {
-      window.netlifyIdentity.logut();
+      window.netlifyIdentity.logout();
       this.user = null;
       this.orders = [];
     },
