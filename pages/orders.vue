@@ -30,7 +30,7 @@
       <div v-if="user" id="logout" class="text-center mt-20">
         <button
           class="font-oswald uppercase bg-red-500 text-white text-center py-3 px-8"
-          @click="logut"
+          @click="logout"
         >
           Logout
         </button>
