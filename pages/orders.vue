@@ -27,15 +27,16 @@
       >
         Login
       </button>
-      <div v-if="user" id="logout" class="text-center mt-20">
-        <button
-          class="font-oswald uppercase bg-red-500 text-white text-center py-3 px-8"
-          @click="logout"
-        >
-          Logout
-        </button>
-      </div>
     </div>
+    <div v-if="user" id="logout" class="text-center mt-20">
+      <button
+        class="font-oswald uppercase bg-red-500 text-white text-center py-3 px-8"
+        @click="logout"
+      >
+        Logout
+      </button>
+    </div>
+
     <table
       v-for="order in orders"
       :key="order.id"
