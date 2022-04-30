@@ -210,7 +210,7 @@
         Its not just a bout the food.
       </p>
     </div>
-    <div id="section-5" class="grid grid-cols-5 bg-yellow-500 text-amber-900">
+    <div id="section-5" class="grid md:grid-cols-5 bg-yellow-500 text-amber-900">
       <div class="col-span-3 md:pl-20 pl-5 pt-16 pb-16 text-center pr-5">
         <h4 class="font-oswald text-5xl uppercase">Download Mobile App</h4>
         <h4 class="font-oswald text-6xl uppercase">Save up to 20%</h4>
